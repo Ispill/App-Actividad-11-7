@@ -1,16 +1,12 @@
-# app_actividad
+# Actividad en clase (11/07/2024)
 
-Actividad 11-7
+> Actividad realizada en clases
 
-## Getting Started
+## Grupo conformado por
+- Maximiliano Artiaga
+- Miguel Espíldora
+- Joan Retamales
 
-This project is a starting point for a Flutter application.
+# Actividad
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicación toma un texto ingresado por el usuario y, al presionar un botón, cuenta cuántas veces aparece cada letra consecutiva. Por ejemplo, si escribes "wwwaaabzx", la app procesa ese texto y lo muestra como "w3a3b1z1x1". Es una forma sencilla de comprimir letras repetidas en grupos, mostrando cada letra seguida de su cantidad.
